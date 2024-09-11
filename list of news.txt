@@ -1,0 +1,27 @@
+ЭКОНОМИКА
+1. РБК  				https://www.rbc.ru/economics/?utm_source=topline
+2. Российская газета (50\50)  		https://rg.ru/tema/ekonomika
+3. РИА Новости  			https://ria.ru/economy/
+4. Коммерсантъ   			https://www.kommersant.ru/rubric/3?from=burger
+5. ЛентаРУ   				https://lenta.ru/rubrics/economics/
+
+ПОЛИТИКА
+1. РБК  				https://www.rbc.ru/politics/?utm_source=topline
+2. Российская газета (50\50)   		https://rg.ru/tema/gos
+3. РИА Новости   			https://ria.ru/politics/
+4. Коммерсантъ   			https://www.kommersant.ru/rubric/2?from=burger
+
+СПОРТ
+1. РИА Новости   			https://rsport.ria.ru/
+2. Коммерсантъ   			https://www.kommersant.ru/rubric/9?from=burger
+3. ЛентаРУ   				https://lenta.ru/rubrics/sport/
+
+НАУКА
+1. РИА Новости   			https://ria.ru/science/
+2. Коммерсантъ   			https://www.kommersant.ru/nauka?from=burger
+3. ЛентаРУ   				https://lenta.ru/rubrics/science/
+ 
+РЕЛИГИЯ
+1. РИА Новости    			https://ria.ru/religion/
+2. Азбука				https://azbyka.ru/news/
+3. ИЗ					https://iz.ru/tag/religiia
